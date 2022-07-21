@@ -6,7 +6,7 @@ import LoginScreen from './screens/LoginScreen';
 
 const App = () => {
  return (
-   <LoginScreen />
+   <AddUser />
   );
 } 
 
